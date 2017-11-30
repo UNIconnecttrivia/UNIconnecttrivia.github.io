@@ -1,6 +1,6 @@
 var data = [
   {
-    "category": "React 101",
+    "category": "Sales 101",
     "questions": [
       {
         "points": 100,

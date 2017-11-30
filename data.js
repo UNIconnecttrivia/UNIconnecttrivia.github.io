@@ -4,7 +4,7 @@ var data = [
     "questions": [
       {
         "points": 100,
-        "question": "<p>What part of your application does React focus on?</p><ol><li>The Model</li><li>The View</li><li>The Controller</li><li>All of the above</li></ol>",
+        "question": "<p>What part of the Sales Cycle should you most focus on ?</p><ol><li>Product</li><li>Customer Experience</li><li>Feature Set</li><li>All of the above</li></ol>",
         "answer": "B. The View"
       },
       {
@@ -25,7 +25,7 @@ var data = [
     ]
   },
   {
-    "category": "React 201",
+    "category": "Sales 201",
     "questions": [
       {
         "points": 100,
@@ -50,7 +50,7 @@ var data = [
     ]
   },
   {
-    "category": "ES 2015",
+    "category": "Pipeline 101",
     "questions": [
       {
         "points": 100,
